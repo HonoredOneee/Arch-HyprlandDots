@@ -90,4 +90,4 @@ Este release contém scripts automatizados para instalar e configurar o **Hyprla
 ⚠️ **Aviso:** O script modifica arquivos do sistema, certifique-se de revisar o código antes de executar.  
 
 ### ✨ **Créditos**  
-By **Rael and Aurelio**  
+By **Rael/Discord:rael2pac and Aurelio/Discord:honored0nee**  
