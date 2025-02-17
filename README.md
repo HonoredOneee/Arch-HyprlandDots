@@ -1,4 +1,3 @@
-
 # 🚀 **Hyprland Installation Script**  
 
 ### 📌 **Descrição**  
@@ -49,10 +48,11 @@ Este release contém scripts automatizados para instalar e configurar o **Hyprla
 ### 🛠 **Recursos**  
 ✅ Suporte para **AMD** e **Intel** (detecção automática)  
 ✅ Instalação do **yay** e pacotes do **AUR**  
-✅ Adição do repositório **Chaotic-AUR** Apenas no "Hypr-Cpu-Intel-and-Amd.sh"  
-✅ Ativação de cores no **nano** e **pacman** Apenas no "Hypr-Cpu-Intel-and-Amd.sh"
 ✅ Configuração do **Hyprland**, Wayland e pacotes essenciais  
 ✅ Extração automática de configurações e wallpapers personalizados  
+✅ **Apenas no "Hypr-Cpu-Intel-and-Amd.sh"**:  
+   - Adição do repositório **Chaotic-AUR**  
+   - Ativação de cores no **nano** e **pacman**  
 
 ### 📂 **Arquivos no Release**  
 📌 **`hypr-amd.sh`** - Script de instalação para sistemas AMD.  
