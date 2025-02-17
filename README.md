@@ -51,7 +51,6 @@ Este release contém scripts automatizados para instalar e configurar o **Hyprla
 ✅ Instalação do **yay** e pacotes do **AUR**  
 ✅ Adição do repositório **Chaotic-AUR** Apenas no "Hypr-Cpu-Intel-and-Amd.sh"  
 ✅ Ativação de cores no **nano** e **pacman** Apenas no "Hypr-Cpu-Intel-and-Amd.sh"
-
 ✅ Configuração do **Hyprland**, Wayland e pacotes essenciais  
 ✅ Extração automática de configurações e wallpapers personalizados  
 
